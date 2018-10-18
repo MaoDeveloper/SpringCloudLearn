@@ -16,6 +16,7 @@
         <module>springcloud-zuul</module>
         <module>springcloud-config-server</module>
         <module>springcloud-config-client</module>
+        <module>springcloud-hystrix</module>
     </modules>
     <packaging>pom</packaging>
 
